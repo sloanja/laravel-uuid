@@ -4,7 +4,7 @@
     "keywords": ["laravel"],
     "type": "library",
     "require": {
-        "webpatser/laravel-uuid": "2.*"
+        "webpatser/laravel-uuid": "^3.0"
     },
     "license": "MIT",
     "authors": [
